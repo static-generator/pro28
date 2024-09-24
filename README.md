@@ -15,5 +15,4 @@ NBA Superstar, One of the Best players in the game. Playing for the Los Angeles 
 
 ## **Jermaine Cole**
 Rap star, One of the best rappers of all time.
-![image](https://github.com/user-attachments/assets/03d66374-717b-43ef-81ae-d7e708b868f2)
-
+![image](https://github.com/user-attachments/assets/5d59ba2b-e822-4239-b9a9-179415537042)
